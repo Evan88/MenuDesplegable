@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewAmpliable</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblnombre">Inserta tu nombre</string>
+    <string name="lblcontrol">Inserta No. Control</string>
+    <string name="msg_btnguardar">Guardar</string>
+
+</resources>
