@@ -17,6 +17,7 @@ import android.widget.*;
 public class MainActivity extends Activity {
 
 	//Hello world!
+	//Este comentario fue hecho en una nueva branch (pruebas)
 
 	public EditText ETNombre,ETControl;
 	public TextView LblControl;
